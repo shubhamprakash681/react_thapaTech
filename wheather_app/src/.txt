@@ -1,0 +1,5 @@
+https://api.openweathermap.org/data/2.5/weather?q=kochi&appid=6c91ec5b3642a0c6819b4b969950cb67
+
+6c91ec5b3642a0c6819b4b969950cb67
+
+api link: https://home.openweathermap.org/api_keys
